@@ -53,4 +53,4 @@ The CNN model consists of several convolutional blocks with batch normalization 
 - The project was inspired by the ISIC skin cancer classification challenge.
 
 ## Contact
-Created by [@psingh-2503] - feel free to reach out if you have any questions!
+Created by [@PranavSingh](https://github.com/psingh-2503) - feel free to reach out if you have any questions!
